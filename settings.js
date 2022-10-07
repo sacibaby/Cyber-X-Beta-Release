@@ -43,24 +43,24 @@ global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['94768440031']
+global.ownertag = '94768440031' //ur tag number
+global.botnumber = '94770378874' //Add your Bot Number For Log
+global.botname = '➢SUKI-MD PRIVETE EDITION➢' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.reactmoji = "👼" //ur menu react emoji
+global.themeemoji = "♫" //ur theme emoji
+global.packname = "➢SKIMD➢" //ur sticker watermark packname
+global.author = "➢SUNETH BRO➢" //ur sticker watermark author
+global.footer = "➢SUKI MD BOT CREATED BY SUNETH➢"
+global.aliveimg ="https://telegra.ph/file/c71f303559321833e7ac5.jpg"
+global.allmenuimg ="https://telegra.ph/file/5ff899e7a4d4a7000d47b.jpg"
+global.welcomeimg= "https://telegra.ph/file/9121405030a81863a9291.jpg"
+global.gbyeimg = "https://telegra.ph/file/9f1344b50185235dfdc7b.jpg"
+global.alivemsg = "➢ජීවිතේ අනියතං මරණය නියතං උනා➢අ̸තී̶තය ͜ᴅᴇʟᴇᴛᴇ͢ ක̸͟රා🎭වැරදුන තැ̸න් ꜱᴀ͞ᴠᴇ͢ ක̶රා͟🔐 පා̸ඩු͜වේ ඉ̸න්නේ͟🎭⚘͜͡★⏤͟͟͞͞✮ᴡʜɪᴛᴇ ʜᴀᴄᴋᴇʀ✮͟͟͞ ̶ ★͜͡🎭ᴿᵉ͢ˢᵖᵉᶜᵗ؆ʜᴀᴄᴋᴇʀ"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94770378874'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
